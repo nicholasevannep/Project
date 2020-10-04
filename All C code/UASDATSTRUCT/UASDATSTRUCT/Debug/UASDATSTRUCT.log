@@ -1,0 +1,14 @@
+﻿Build started 7/5/2019 10:37:11 AM.
+     1>Project "c:\Users\NEP\documents\visual studio 2010\Projects\UASDATSTRUCT\UASDATSTRUCT\UASDATSTRUCT.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "c:\users\nep\documents\visual studio 2010\Projects\UASDATSTRUCT\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\UASDATSTRUCT.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       FinalizeBuildStatus:
+         Deleting file "Debug\UASDATSTRUCT.unsuccessfulbuild".
+         Touching "Debug\UASDATSTRUCT.lastbuildstate".
+     1>Done Building Project "c:\Users\NEP\documents\visual studio 2010\Projects\UASDATSTRUCT\UASDATSTRUCT\UASDATSTRUCT.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.49

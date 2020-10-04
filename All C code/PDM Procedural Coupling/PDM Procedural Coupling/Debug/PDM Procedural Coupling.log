@@ -1,0 +1,23 @@
+﻿Build started 10/31/2018 2:42:40 AM.
+     1>Project "c:\Users\NEP\documents\visual studio 2010\Projects\PDM Procedural Coupling\PDM Procedural Coupling\PDM Procedural Coupling.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\PDM Procedural Coupling.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Procedural.cpp
+         Procedural.cpp
+     1>c:\users\nep\documents\visual studio 2010\projects\pdm procedural coupling\pdm procedural coupling\procedural.cpp(6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\nep\documents\visual studio 2010\Projects\PDM Procedural Coupling\Debug\PDM Procedural Coupling.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\PDM Procedural Coupling.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\nep\documents\visual studio 2010\Projects\PDM Procedural Coupling\Debug\PDM Procedural Coupling.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\nep\documents\visual studio 2010\Projects\PDM Procedural Coupling\Debug\PDM Procedural Coupling.lib" /MACHINE:X86 Debug\Procedural.obj
+         LINK : c:\users\nep\documents\visual studio 2010\Projects\PDM Procedural Coupling\Debug\PDM Procedural Coupling.exe not found or not built by the last incremental link; performing full link
+         PDM Procedural Coupling.vcxproj -> c:\users\nep\documents\visual studio 2010\Projects\PDM Procedural Coupling\Debug\PDM Procedural Coupling.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"c:\users\nep\documents\visual studio 2010\Projects\PDM Procedural Coupling\Debug\PDM Procedural Coupling.exe;#1" /manifest "Debug\PDM Procedural Coupling.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\PDM Procedural Coupling.unsuccessfulbuild".
+         Touching "Debug\PDM Procedural Coupling.lastbuildstate".
+     1>Done Building Project "c:\Users\NEP\documents\visual studio 2010\Projects\PDM Procedural Coupling\PDM Procedural Coupling\PDM Procedural Coupling.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.81

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PDM operand", "PDM operand\PDM operand.vcxproj", "{7C5B5C25-3D09-4ED7-B549-C9213F427758}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C5B5C25-3D09-4ED7-B549-C9213F427758}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7C5B5C25-3D09-4ED7-B549-C9213F427758}.Debug|Win32.Build.0 = Debug|Win32
+		{7C5B5C25-3D09-4ED7-B549-C9213F427758}.Release|Win32.ActiveCfg = Release|Win32
+		{7C5B5C25-3D09-4ED7-B549-C9213F427758}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

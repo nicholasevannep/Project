@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PDM Common Coup", "PDM Common Coup\PDM Common Coup.vcxproj", "{4393165D-196B-43E8-9949-BA019980BFE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4393165D-196B-43E8-9949-BA019980BFE9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4393165D-196B-43E8-9949-BA019980BFE9}.Debug|Win32.Build.0 = Debug|Win32
+		{4393165D-196B-43E8-9949-BA019980BFE9}.Release|Win32.ActiveCfg = Release|Win32
+		{4393165D-196B-43E8-9949-BA019980BFE9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

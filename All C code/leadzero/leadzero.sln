@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "leadzero", "leadzero\leadzero.vcxproj", "{6CB75CFD-FB54-49C5-A575-593DC84C31A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CB75CFD-FB54-49C5-A575-593DC84C31A9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6CB75CFD-FB54-49C5-A575-593DC84C31A9}.Debug|Win32.Build.0 = Debug|Win32
+		{6CB75CFD-FB54-49C5-A575-593DC84C31A9}.Release|Win32.ActiveCfg = Release|Win32
+		{6CB75CFD-FB54-49C5-A575-593DC84C31A9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

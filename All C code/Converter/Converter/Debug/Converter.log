@@ -1,0 +1,24 @@
+﻿Build started 11/29/2018 4:12:31 PM.
+     1>Project "C:\Users\NEP\documents\visual studio 2010\Projects\Converter\Converter\Converter.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Converter.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt converter.cpp
+         converter.cpp
+     1>c:\users\nep\documents\visual studio 2010\projects\converter\converter\converter.cpp(55): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nep\documents\visual studio 2010\projects\converter\converter\converter.cpp(86): warning C4101: 's' : unreferenced local variable
+     1>c:\users\nep\documents\visual studio 2010\projects\converter\converter\converter.cpp(86): warning C4101: 'd' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\NEP\documents\visual studio 2010\Projects\Converter\Debug\Converter.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Converter.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\NEP\documents\visual studio 2010\Projects\Converter\Debug\Converter.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\NEP\documents\visual studio 2010\Projects\Converter\Debug\Converter.lib" /MACHINE:X86 Debug\converter.obj
+         LINK : C:\Users\NEP\documents\visual studio 2010\Projects\Converter\Debug\Converter.exe not found or not built by the last incremental link; performing full link
+         Converter.vcxproj -> C:\Users\NEP\documents\visual studio 2010\Projects\Converter\Debug\Converter.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\NEP\documents\visual studio 2010\Projects\Converter\Debug\Converter.exe;#1" /manifest Debug\Converter.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\Converter.unsuccessfulbuild".
+         Touching "Debug\Converter.lastbuildstate".
+     1>Done Building Project "C:\Users\NEP\documents\visual studio 2010\Projects\Converter\Converter\Converter.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.58

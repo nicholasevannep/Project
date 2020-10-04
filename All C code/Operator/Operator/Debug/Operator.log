@@ -1,0 +1,31 @@
+﻿Build started 10/15/2018 10:41:16 PM.
+     1>Project "c:\Users\NEP\documents\visual studio 2010\Projects\Operator\Operator\Operator.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Operator.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Operator.cpp
+         Operator.cpp
+     1>c:\users\nep\documents\visual studio 2010\projects\operator\operator\operator.cpp(5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\nep\documents\visual studio 2010\projects\operator\operator\operator.cpp(7): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\nep\documents\visual studio 2010\projects\operator\operator\operator.cpp(10): error C2446: '>' : no conversion from 'int' to 'char *'
+                 Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+     1>c:\users\nep\documents\visual studio 2010\projects\operator\operator\operator.cpp(10): error C2040: '>' : 'char *' differs in levels of indirection from 'int'
+     1>c:\users\nep\documents\visual studio 2010\projects\operator\operator\operator.cpp(11): error C2440: '=' : cannot convert from 'char *' to 'int'
+                 There is no context in which this conversion is possible
+     1>c:\users\nep\documents\visual studio 2010\projects\operator\operator\operator.cpp(12): error C2440: '=' : cannot convert from 'char' to 'char *'
+                 Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+     1>c:\users\nep\documents\visual studio 2010\projects\operator\operator\operator.cpp(15): error C2446: '>' : no conversion from 'int' to 'char *'
+                 Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+     1>c:\users\nep\documents\visual studio 2010\projects\operator\operator\operator.cpp(15): error C2040: '>' : 'char *' differs in levels of indirection from 'int'
+     1>c:\users\nep\documents\visual studio 2010\projects\operator\operator\operator.cpp(16): error C2440: '=' : cannot convert from 'char *' to 'int'
+                 There is no context in which this conversion is possible
+     1>c:\users\nep\documents\visual studio 2010\projects\operator\operator\operator.cpp(17): error C2440: '=' : cannot convert from 'char' to 'char *'
+                 Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+     1>c:\users\nep\documents\visual studio 2010\projects\operator\operator\operator.cpp(30): fatal error C1075: end of file found before the left brace '{' at 'c:\users\nep\documents\visual studio 2010\projects\operator\operator\operator.cpp(2)' was matched
+     1>Done Building Project "c:\Users\NEP\documents\visual studio 2010\Projects\Operator\Operator\Operator.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.31

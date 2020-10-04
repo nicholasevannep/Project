@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PDM Logical Cohesion", "PDM Logical Cohesion\PDM Logical Cohesion.vcxproj", "{538E1884-7584-4A69-88C2-4FE0094DE8AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{538E1884-7584-4A69-88C2-4FE0094DE8AD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{538E1884-7584-4A69-88C2-4FE0094DE8AD}.Debug|Win32.Build.0 = Debug|Win32
+		{538E1884-7584-4A69-88C2-4FE0094DE8AD}.Release|Win32.ActiveCfg = Release|Win32
+		{538E1884-7584-4A69-88C2-4FE0094DE8AD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
